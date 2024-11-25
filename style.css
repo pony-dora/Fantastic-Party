@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    border: 5px solid blue;
+    border-radius: 10px;
+    margin-bottom: 15px
+}
+
+nav a {
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    margin: 10px
+}
+
+.products {
+    border: 3px solid blue;
+    color: blue;
+    border-radius: 10px;
+    background-color: white
+}
